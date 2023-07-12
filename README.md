@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Gutiérrez</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
+<p>🌐I am a Full Stack Developer with experience in implementing cutting-edge methodologies in the field of Computer Engineering. My focus is on the complete development of applications, covering both Front-end and Back-end. In addition to having experience in agile methodologies, GIT, data structures, algorithms, and CSS frameworks such as Ant Design, I am proficient in technologies like Node.js, React, PostgreSQL, and C#. My interpersonal skills include leadership, analytical thinking, problem-solving, and a strong team collaboration mindset.</p>
 
 - 👯 My Collaborative Projects: [Tecnocamp](https://github.com/juangutierrezjp/TecnoCAMP)
 
